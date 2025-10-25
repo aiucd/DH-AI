@@ -9,10 +9,9 @@
 L'**Osservatorio AI&DH** è un’iniziativa dell’**Associazione per l’Informatica Umanistica e la Cultura Digitale (AIUCD)**, in collaborazione con **XXX** e con **YYY**, per costruire una comunità scientifica multidisciplinare per la condivisione di conoscenze sull'Intelligenza Artificiale e le discipline umanistiche ****.
 
 Il progetto intende:
-- riflettere sulla definizione di **born-digital archives**
-- mappare progetti e centri di ricerca attivi
-- raccogliere una **bibliografia condivisa**
-- incentivare la **condivisione di pratiche, strumenti e standard**
+- 
+-
+-
 
 🔗 **Sito ufficiale**: https://aiucd.github.io/dh-ai/
 
