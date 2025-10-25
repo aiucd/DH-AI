@@ -14,21 +14,20 @@ Il progetto intende:
 - raccogliere una **bibliografia condivisa**
 - incentivare la **condivisione di pratiche, strumenti e standard**
 
-🔗 **Sito ufficiale**: https://aiucd.github.io/aldina/
+🔗 **Sito ufficiale**: https://aiucd.github.io/dh-ai/
 
 ---
 
 ## EN  Project description
 
-**ALDiNa** is an initiative by the **Italian Association for Digital Humanities and Digital Culture (AIUCD)** in collaboration with **CLARIN-IT**. It aims to build a national, multidisciplinary network focused on **born-digital literary archives**.
+**DH-AI** is an initiative by the **Italian Association for Digital Humanities and Digital Culture (AIUCD)** in collaboration with **XXX**. It aims to build a national, multidisciplinary community focused on **Digital Humanities & Artificial Intelligence**.
 
 The project seeks to:
-- reflect on the definition of **born-digital archives**
-- map projects and research centers
-- collect a shared **bibliography**
-- promote the **sharing of practices, tools and standards**
+- 
+-
+-
 
-🔗 **Official website**: https://aiucd.github.io/aldina/index-en.html
+🔗 **Official website**: https://aiucd.github.io/dh-ai/index-en.html
 
 ---
 
@@ -37,7 +36,7 @@ The project seeks to:
 Hai un progetto, evento o pubblicazione da segnalare?  
 Do you want to suggest a project, event, or publication?
 
-📩 Usa il form → https://aiucd.github.io/aldina/contatti.html
+📩 Usa il form → https://aiucd.github.io/dh-ai/contatti.html
 
 ---
 
