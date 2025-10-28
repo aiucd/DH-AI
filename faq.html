@@ -1,81 +1,6 @@
 <!DOCTYPE html>
 <html lang="it">
 
-<!--==== CSS PER FILTRO =====--->
-<style>
-.filterDiv {
-float: left;
-background-color: #585f7f;
-color: #ffffff;
-width: 100px;
-line-height: 100px;
-text-align: center;
-margin: 2px;
-display: none;
-}
-
-.show {
-display: block;
-}
-
-.container {
-margin-top: 20px;
-overflow: hidden;
-}
-
-/* Style the buttons */
-.btn {
-border: none;
-outline: none;
-padding: 12px 16px;
-background-color: #f1f1f1;
-cursor: pointer;
-}
-
-.btn:hover {
-background-color: #ddd;
-}
-
-.btn.active {
-background-color: #585f7f;
-color: white;
-}
-
-/* Stile CSS per il filtro */
-#filtro {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Colore e trasparenza del filtro */
-    display: none; /* Inizialmente nascosto */
-    z-index: 10; /* Assicura che sia sopra gli altri contenuti */
-}
-
-/* Stile CSS per il div da cliccare */
-#miaSezione {
-    position: relative; /* Assicura che il filtro sia posizionato rispetto a questo elemento */
-    width: 200px;
-    height: 200px;
-    background-color: lightblue;
-}
-
-/* Quando #miaSezione è stato cliccato, mostra il filtro */
-#miaSezione:focus + #filtro {
-    display: block;
-}
-
-/* Centra l'immagine orizzontalmente */
-.immagine-centrata {
-      display: block;          /* Rende l'immagine un elemento di blocco */
-      margin: 0 auto;          /* Auto margini centrano orizzontalmente */
-      max-width: 100%;         /* Adatta la larghezza al contenitore */
-      height: auto;            /* Mantiene le proporzioni originali */
-    }
-    
-</style>
-
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -105,8 +30,6 @@ color: white;
 
 
 </head>
-
-
 
   <body>
 
