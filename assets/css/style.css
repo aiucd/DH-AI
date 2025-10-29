@@ -39,6 +39,19 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 20px; /* Riduce lo spazio in basso */
 }
 
+figure {
+    display: inline-block;     /* mantiene immagine + didascalia come blocco unico */
+    text-align: center;        /* centra il contenuto */
+    margin: 20px auto;
+  }
+
+figure figcaption {
+    width: 80%;                /* stessa larghezza dell'immagine */
+    margin: 5px auto 0 auto;   /* centrata sotto l’immagine */
+    font-size: 0.8em;          /* font più piccolo */
+    color: #555;               /* colore più tenue */
+  }
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
