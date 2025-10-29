@@ -1,32 +1,22 @@
 # Osservatorio sull'Intelligenza Artificiale e le Digital Humanities  
- Progetto promosso da AIUCD in collaborazione con XXX  
- A project promoted by AIUCD in collaboration with XXX
+ Progetto promosso da AIUCD in collaborazione con Centri di ricerca  
+ A project promoted by AIUCD in collaboration with Reserch Centers
 
 ---
 
 ## 🇮🇹  Descrizione del progetto
 
-L'**Osservatorio AI&DH** è un’iniziativa dell’**Associazione per l’Informatica Umanistica e la Cultura Digitale (AIUCD)**, in collaborazione con **XXX** e con **YYY**, per costruire una comunità scientifica multidisciplinare per la condivisione di conoscenze sull'Intelligenza Artificiale e le discipline umanistiche ****.
+L'**Osservatorio AI&DH** è un’iniziativa dell’**Associazione per l’Informatica Umanistica e la Cultura Digitale (AIUCD)**, in collaborazione con centri di ricerca di Università italiane, per costruire una comunità aperta di ricerca e innovazione multidisciplinare per la condivisione di conoscenze sull'Intelligenza Artificiale e le discipline umanistiche ****.
 
-Il progetto intende:
-- 
--
--
-
-🔗 **Sito ufficiale**: https://aiucd.github.io/dh-ai/
+🔗 **Sito ufficiale**: https://aiucd.github.io/DH-AI/index.html
 
 ---
 
 ## EN  Project description
 
-**DH-AI** is an initiative by the **Italian Association for Digital Humanities and Digital Culture (AIUCD)** in collaboration with **XXX**. It aims to build a national, multidisciplinary community focused on **Digital Humanities & Artificial Intelligence**.
+**DH-AI** is an initiative by the **Italian Association for Digital Humanities and Digital Culture (AIUCD)** in collaboration with Italian Research Centers. It aims to build an open research and innovation multidisciplinary community focused on **Digital Humanities & Artificial Intelligence**.
 
-The project seeks to:
-- 
--
--
-
-🔗 **Official website**: https://aiucd.github.io/dh-ai/index-en.html
+🔗 **Official English website**: TBD
 
 ---
 
@@ -34,15 +24,13 @@ The project seeks to:
 
 Hai un progetto, evento o pubblicazione da segnalare?  
 Do you want to suggest a project, event, or publication?
-
-📩 Usa il form → https://aiucd.github.io/dh-ai/contatti.html
+...
 
 ---
 
 ##  Credits
 
-- **Logo** → []()  
-- **Sito web** → [Andrea Bolioli](https://www.linkedin.com/in/andreabolioli/)  
+- **Sito web** → [Andrea Bolioli](https://www.linkedin.com/in/andreabolioli/)  e Special Interest Group (SIG) DH-AI
 - **AIUCD** → [aiucd.it](https://www.aiucd.it)
 
 ---
